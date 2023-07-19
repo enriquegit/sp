@@ -1,6 +1,6 @@
 # Superpower 1: Knowledge Absorption
 
-## Artifacts: <img src="[url](https://enriquegit.github.io/sp/laser.png)" width="50" height="50">
+<img src="https://enriquegit.github.io/sp/laser.png" width="50" height="50"> <b>Artifacts:</b>
 
 - Sharp pencil and paper to take notes.
 - Talk with the experts and ask questions
